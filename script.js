@@ -70,6 +70,9 @@ console.log(typeof population)
     let language;
     console.log(typeof language);
 
+    let isFelling = true;
+    console.log("he is speaking truth");
+
 
 
 
