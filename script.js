@@ -64,7 +64,7 @@ console.log(typeof population)
     year = 1991;
     console.log(typeof year);
 
-    let isIsland = "pakistan";
+    let isIsland = "Canada";
     isIsland = true;
     console.log(typeof isIsland)
     let language;
